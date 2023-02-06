@@ -1,1 +1,1 @@
-# MID - project
+# MID-project
