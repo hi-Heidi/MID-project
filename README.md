@@ -1,1 +1,1 @@
-# miniproject2
+# MID - project
